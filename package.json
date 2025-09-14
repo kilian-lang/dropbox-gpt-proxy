@@ -1,0 +1,13 @@
+{
+  "name": "dropbox-gpt-proxy",
+  "version": "1.0.0",
+  "description": "Proxy Dropbox pour GPT personnalisé",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build complete'"
+  },
+  "dependencies": {},
+  "engines": {
+    "node": "18.x"
+  }
+}
